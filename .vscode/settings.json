@@ -1,0 +1,12 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "files.autoSave": "onFocusChange",
+  "editor.cursorStyle": "line",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "workbench.settings.editor": "json",
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.preferredDarkColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastColorTheme": "Default Dark+",
+  "workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+
